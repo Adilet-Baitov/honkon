@@ -160,11 +160,11 @@ ul {
 }
 
 .icons__profile {
-    background-image: url(./Image/icons/4781818_account_avatar_face_man_people_icon.svg);
+    background-image: url(../Image/icons/4781818_account_avatar_face_man_people_icon.svg);
 }
 
 .basket__icon {
-    background-image: url(./Image/icons/basket.svg);
+    background-image: url(../Image/icons/basket.svg);
 }
 
 .icons {
@@ -179,7 +179,7 @@ ul {
 }
 
 .photo-block__image {
-    background-image: url(./Image/image/main-photo.jpg);
+    background-image: url(../Image/image/main-photo.jpg);
     background-repeat: no-repeat;
     padding: 0 0 0 20px;
     min-height: 500px;
@@ -233,7 +233,7 @@ button:hover {
 }
 
 .photo-block__right:nth-child(1) {
-    background-image: url(/Image/image/53.jpg);
+    background-image: url(../Image/image/53.jpg);
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
@@ -264,7 +264,7 @@ button:hover {
 }
 
 .photo-block__right:nth-child(2) {
-    background-image: url(/Image/image/kosmetologicheskoe-oborudovanie-.jpg);
+    background-image: url(../Image/image/kosmetologicheskoe-oborudovanie-.jpg);
     background-position: center;
     background-repeat: no-repeat;
     position: relative;
@@ -315,7 +315,7 @@ button:hover {
 }
 
 .cards__block:nth-of-type(1) .cards__img {
-    background-image: url(/Image/image/basket-blue.svg);
+    background-image: url(../Image/image/basket-blue.svg);
 }
 
 .cards__title {
@@ -335,15 +335,15 @@ button:hover {
 }
 
 .cards__block:nth-of-type(2) .cards__img {
-    background-image: url(/Image/icons/stocks-icon.svg);
+    background-image: url(../Image/icons/stocks-icon.svg);
 }
 
 .cards__block:nth-of-type(3) .cards__img {
-    background-image: url(/Image/icons/quality_icon.svg);
+    background-image: url(../Image/icons/quality_icon.svg);
 }
 
 .cards__block:nth-of-type(4) .cards__img {
-    background-image: url(/Image/icons/globus_world_icon.svg);
+    background-image: url(../Image/icons/globus_world_icon.svg);
 }
 
 .products {
@@ -593,7 +593,7 @@ footer {
 }
 
 .phone__footer {
-    background-image: url(/Image/icons/phone-svgrepo-com.svg);
+    background-image: url(../Image/icons/phone-svgrepo-com.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
