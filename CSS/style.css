@@ -428,10 +428,12 @@ button:hover {
 .our-prod {
     padding: 50px 0;
     border-top: 1px solid var(--gray-line);
+    display: flex;
+    flex-direction: column;
 }
 
 a .our-prod__card {
-    height: 400px;
+    height: 450px;
     display: flex;
     flex-direction: column;
     gap: 20px;
@@ -461,6 +463,13 @@ a .our-prod__card:hover {
     gap: 10px;
 }
 
+.grid-card-270 {
+    display: grid;
+    grid-template-columns: 270px 270px 270px 270px;
+    gap: 15px;
+    margin: 0 auto;
+}
+
 .our-prod__tag {
     background-color: yellow;
     padding: 2px 5px;
@@ -487,11 +496,6 @@ a .our-prod__card:hover {
     display: flex;
     gap: 15px;
     align-items: center;
-}
-
-a .our-prod__card {
-    width: 270px;
-    height: 450px;
 }
 
 .our-prod__price {
