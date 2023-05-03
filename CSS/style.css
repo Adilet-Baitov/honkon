@@ -96,7 +96,7 @@ h3 {
 }
 
 .burger__icon {
-    background-image: url("/Image/icons/menu-burger.svg");
+    background-image: url(../icons/menu-burger.svg);
     background-repeat: no-repeat;
     stroke: var(--dark-color);
 }
@@ -111,7 +111,7 @@ ul {
 }
 
 .phone__svg {
-    background-image: url(/Image/icons/phone1.svg);
+    background-image: url(../icons/phone1.svg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -151,7 +151,7 @@ ul {
 }
 
 .icons__search {
-    background-image: url(/Image/icons/211818_search_icon.svg);
+    background-image: url(../icons/211818_search_icon.svg);
 }
 
 .icons__search:hover {
@@ -617,7 +617,7 @@ footer {
 }
 
 .footer__icon {
-    background-image: url(/Image/icons/email-svgrepo-com.svg);
+    background-image: url(../icons/email-svgrepo-com.svg);
     background-size: contain;
 }
 
