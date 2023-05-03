@@ -151,7 +151,7 @@ ul {
 }
 
 .icons__search {
-    background-image: url(../Image/icons/211818_search_icon.svg);
+    background-image: url(./Image/icons/211818_search_icon.svg);
 }
 
 .icons__search:hover {
@@ -160,11 +160,11 @@ ul {
 }
 
 .icons__profile {
-    background-image: url(/Image/icons/4781818_account_avatar_face_man_people_icon.svg);
+    background-image: url(./Image/icons/4781818_account_avatar_face_man_people_icon.svg);
 }
 
 .basket__icon {
-    background-image: url(/Image/icons/basket.svg);
+    background-image: url(./Image/icons/basket.svg);
 }
 
 .icons {
@@ -179,7 +179,7 @@ ul {
 }
 
 .photo-block__image {
-    background-image: url(/Image/image/main-photo.jpg);
+    background-image: url(./Image/image/main-photo.jpg);
     background-repeat: no-repeat;
     padding: 0 0 0 20px;
     min-height: 500px;
