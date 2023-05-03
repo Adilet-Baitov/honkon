@@ -1,0 +1,5 @@
+@media (max-width: 1250px) {
+    .menu:nth-child(6) {
+        display: hidden;
+    }
+}
