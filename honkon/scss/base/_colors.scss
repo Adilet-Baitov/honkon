@@ -1,0 +1,32 @@
+$white: #ffffff;
+$lite: #f6f6f6;
+$grey: #969696;
+$lite-darker: #f2f2f2;
+
+$dark: #2f2e2e;
+$dark-lite: #3d3c3c;
+$dashed: #8282821f;
+$none: #211f1c00;
+
+$shadow-sm: #211f1c16;
+
+$primary: #4cb887;
+$secondary: #489b76;
+
+$success: #5ec383;
+$danger: #e66b6d;
+$warning: #e6b76b;
+
+// text color
+.text-primary {
+    color: $primary !important;
+}
+
+.text-fade {
+    color: #969696;
+}
+
+// bg color
+.bg-none {
+    background-color: $none !important;
+}

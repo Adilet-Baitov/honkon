@@ -1,0 +1,28 @@
+.btn-outline-primary {
+    background-color: $none;
+    border-color: $primary;
+    color: $primary;
+    &:hover {
+        background-color: $primary;
+        border-color: $primary;
+    }
+}
+
+.nav-link {
+    color: $dark;
+    transition: color 0.3s ease;
+    &:hover {
+        color: $primary;
+    }
+    &.active {
+        color: $secondary !important;
+    }
+}
+
+.link {
+    color: $primary !important;
+    transition: color 0.2s ease;
+    &:hover {
+        color: $secondary !important;
+    }
+}
