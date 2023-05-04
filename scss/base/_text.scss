@@ -1,0 +1,37 @@
+.p {
+    line-height: 1.5rem;
+}
+
+.text-status-warning {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    background-color: $warning;
+    color: $lite;
+}
+.text-status-success {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    background-color: $success;
+    color: $lite;
+}
+.text-status-danger {
+    width: fit-content;
+    height: fit-content;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.25rem 0.5rem;
+    background-color: $danger;
+    color: $lite;
+}

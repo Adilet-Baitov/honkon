@@ -1,0 +1,24 @@
+.header {
+    width: 100% !important;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: $white;
+    z-index: 100;
+    
+    &__btn {
+
+        transition: background-color 0.3s ease, opacity 0.3s ease, color 0.3s ease;
+        border: none !important;
+        margin: 0 0.25rem;
+
+        &:focus {
+            background-color: $primary !important;
+            opacity: 1;
+        }
+        &:hover {
+            background-color: $primary;
+            opacity: 0.8;
+        }
+    }
+}

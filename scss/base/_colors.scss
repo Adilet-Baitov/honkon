@@ -1,0 +1,37 @@
+$white: #ffffff;
+$lite: #f6f6f6;
+$grey: #969696;
+$lite-darker: #f2f2f2;
+$lite-op: #ffffffc4;
+
+$dark: #1c1f1f;
+$dark-lite: #292a2a;
+$dashed: #8282821f;
+$none: #211f1c00;
+
+$shadow-sm: #211f1c16;
+
+$primary: #4cb887;
+$primary-op: #4cb887a0;
+$secondary: #489b76;
+
+$success: #5ec383;
+$danger: #e66b6d;
+$warning: #e6b76b;
+
+// text color
+.bg-dark {
+    background-color: $dark !important;
+}
+.text-primary {
+    color: $primary !important;
+}
+
+.text-fade {
+    color: #969696;
+}
+
+// bg color
+.bg-none {
+    background-color: $none !important;
+}
